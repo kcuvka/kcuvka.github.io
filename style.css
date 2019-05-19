@@ -133,3 +133,7 @@ p2 {background-color: #EEE;
     margin: 0 auto;
     text-transform: uppercase;
     text-shadow: 5px 5px 0px #EEE, 7px 7px 0px #707070;}
+ P B { 
+    font-family: Times, serif; /* Семейство шрифта */
+    color: navy; /* Синий цвет текста */
+   }
